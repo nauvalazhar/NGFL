@@ -21,7 +21,7 @@ Let's make it easy! Just download this template, use it on your project.
 - Microsoft Edge
 
 # Demo
-[Hit Me](https://nauvalazhar.github.io/NGFL)
+[Hit Me](https://nauvalazhar.github.io/NGFL/)
 
 # Report Some Bugs
 Find a Bug? Please, create an issue and we'll fix it together for a better template.
